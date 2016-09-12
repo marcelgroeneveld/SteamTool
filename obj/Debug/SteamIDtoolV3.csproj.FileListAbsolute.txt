@@ -1,0 +1,10 @@
+C:\Users\Marcel\Desktop\SteamIDToolV3\SteamIDtoolV3\SteamIDtoolV3\bin\Debug\SteamIDtoolV3.exe.config
+C:\Users\Marcel\Desktop\SteamIDToolV3\SteamIDtoolV3\SteamIDtoolV3\bin\Debug\SteamIDtoolV3.exe
+C:\Users\Marcel\Desktop\SteamIDToolV3\SteamIDtoolV3\SteamIDtoolV3\bin\Debug\SteamIDtoolV3.pdb
+C:\Users\Marcel\Desktop\SteamIDToolV3\SteamIDtoolV3\SteamIDtoolV3\bin\Debug\Steamworks.NET.dll
+C:\Users\Marcel\Desktop\SteamIDToolV3\SteamIDtoolV3\SteamIDtoolV3\obj\Debug\SteamIDtoolV3.csprojResolveAssemblyReference.cache
+C:\Users\Marcel\Desktop\SteamIDToolV3\SteamIDtoolV3\SteamIDtoolV3\obj\Debug\SteamIDtoolV3.Form1.resources
+C:\Users\Marcel\Desktop\SteamIDToolV3\SteamIDtoolV3\SteamIDtoolV3\obj\Debug\SteamIDtoolV3.Properties.Resources.resources
+C:\Users\Marcel\Desktop\SteamIDToolV3\SteamIDtoolV3\SteamIDtoolV3\obj\Debug\SteamIDtoolV3.csproj.GenerateResource.Cache
+C:\Users\Marcel\Desktop\SteamIDToolV3\SteamIDtoolV3\SteamIDtoolV3\obj\Debug\SteamIDtoolV3.exe
+C:\Users\Marcel\Desktop\SteamIDToolV3\SteamIDtoolV3\SteamIDtoolV3\obj\Debug\SteamIDtoolV3.pdb
